@@ -1,0 +1,86 @@
+body{
+    padding: 0px;
+    margin: 8px 36px;
+}
+#im1{
+    margin: 0 25px;
+}
+#search{
+    margin: 0 20px;
+}
+div{
+    display: inline-block;
+}
+#n2{
+    padding: 0 0 0 150px;
+}
+#dp1{
+    margin: 0 px;
+    padding: 0px 180px 0px 0px;
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+
+}
+#dp2{
+    margin: 0 px;
+    padding: 0px 50px 0px 0px;
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+
+}
+#dp3{
+    margin: 0 px;
+    padding: 0px 50px 0px 0px;
+    display: inline-block;
+    font-size: 20px;
+    color: rgb(100, 100, 100);
+
+}
+p{
+    display: inline-block;
+}
+#p1{
+    display: inline-block;
+    font-size: 22px;
+    color: rgb(100, 100, 100);
+    padding: 0 0 0 20px;
+
+}
+#p2{
+    display: inline-block;
+    font-size: 22px;
+    color: rgb(100, 100, 100);
+    padding: 0 0 0 20px;
+}
+#p3{
+    display: inline-block;
+    font-size: 22px;
+    color: rgb(100, 100, 100);
+    padding: 0 0 0 20px;
+
+}
+#p4{
+    display: inline-block;
+    font-size: 22px;
+    color: rgb(100, 100, 100);
+    padding: 0 0 0 20px;
+
+}
+#p5{
+    display: inline-block;
+    font-size: 22px;
+    color: rgb(100, 100, 100);
+    padding: 0 0 0 20px;
+
+}
+#pm1{
+    display: inline-block;
+    font-size: 22px;
+    color: rgb(100, 100, 100);
+    padding: 0 0 0 20px;
+}
+#img1{
+    height: 320px;
+}

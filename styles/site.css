@@ -59,7 +59,7 @@ p{
     display: inline-block;
     font-size: 22px;
     color: rgb(100, 100, 100);
-    padding: 0px 5px 0px 0px;
+    padding: 5px 5px 0px 0px;
 }
 #img1{
     height: 320px;
@@ -72,4 +72,92 @@ p{
     border-bottom-width: 0px;
     color: rgb(100, 100, 100);
 }
+.city {
+    color: rgb(100, 100, 100);
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    /* margin: 20px; */
+    padding: 30px 5px 0px 5px;
+    margin: -200px 129px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
 
+}
+#ob1{
+    display: inline-block;
+    border: 2px solid rgba(178, 34, 34, 0);
+    padding: 0px 90px 0px 0px;
+}
+#ob2{
+    display: inline-block;
+border: 0px solid color rgb(100, 100, 100);
+    padding: 0px 40px 0px 40px;
+}
+#ob3{
+    display: inline-block;
+border: 0px solid color rgb(100, 100, 100);
+    padding: 0px 0px 0px 35px;
+}
+#ob4{
+    display: inline-block;
+border: 0px solid color rgb(100, 100, 100);
+    padding: 0px 0px 0px 35px;
+}
+#ob5{
+    display: inline-block;
+border: 0px solid color rgb(100, 100, 100);
+    padding: 0px 0px 0px 35px;
+}
+#ob6{
+    display: inline-block;
+border: 0px solid color rgb(100, 100, 100);
+    padding: 0px 0px 0px 35px;
+}
+#ob7{
+    display: inline-block;
+border: 0px solid color rgb(100, 100, 100);
+    padding: 0px 0px 0px 20px;
+}
+.svg1{
+    margin: 0px 35px;
+}
+#parvaz{
+    display: block;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+#kharegi{
+    display: block;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+#qatar{
+    display: block;
+    margin: 10px 40px;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+#otobos{
+    display: block;
+    margin: 10px 32px;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+#tor{
+    display: block;
+    margin: 10px 45px;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+#motel{
+    display: block;
+    margin: 10px 45px;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}
+#vila{
+    display: block;
+    margin: 10px 45px;
+    font-size: 18px;
+    color: rgb(100, 100, 100);
+}

@@ -41,19 +41,6 @@ div{
 p{
     display: inline-block;
 }
-#p1{
-    display: inline-block;
-    font-size: 22px;
-    color: rgb(100, 100, 100);
-    padding: 0 0 0 20px;
-
-}
-#p2{
-    display: inline-block;
-    font-size: 22px;
-    color: rgb(100, 100, 100);
-    padding: 0 0 0 20px;
-}
 #p3{
     display: inline-block;
     font-size: 22px;
@@ -62,13 +49,6 @@ p{
 
 }
 #p4{
-    display: inline-block;
-    font-size: 22px;
-    color: rgb(100, 100, 100);
-    padding: 0 0 0 20px;
-
-}
-#p5{
     display: inline-block;
     font-size: 22px;
     color: rgb(100, 100, 100);
@@ -84,21 +64,12 @@ p{
 #img1{
     height: 320px;
 }
-#dp4{
-    margin: 0 px;
-    padding: 0px 300px 0px 0px;
-    display: inline-block;
-    font-size: 20px;
-    color: rgb(100, 100, 100);
-
-}
 #cars{
     font-size: 20px;
-    /* size: 50px; */
     border-top-width: 0px;
     border-right-width: 0px;
     border-left-width: 0px;
     border-bottom-width: 0px;
-
+    color: rgb(100, 100, 100);
 }
 

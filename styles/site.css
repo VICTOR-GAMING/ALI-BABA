@@ -79,7 +79,17 @@ p{
     padding: 30px 5px 0px 5px;
     margin: -200px 129px;
     display: inline-block;
-    border-radius: 10px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(255, 255, 255);
+}
+.city2 {
+    color: rgb(100, 100, 100);
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    /* margin: 20px; */
+    padding: 30px 5px 0px 5px;
+    margin: 20px 129px;
+    display: inline-block;
+    border-radius: 0px 0px 10px 10px;
     background-color: rgb(255, 255, 255);
 
 }
@@ -160,4 +170,62 @@ border: 0px solid color rgb(100, 100, 100);
     margin: 10px 45px;
     font-size: 18px;
     color: rgb(100, 100, 100);
+}
+#cars2{
+    font-size: 20px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    display: block;
+    margin: 0px 20px 25px 20px;
+}
+#menu1{
+    display: block;
+    margin: 10px 20px 10px 10px;
+    font-size: 20px;
+    border-radius: 0px 10px 10px 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border: 0px solid rgba(0, 0, 0, 0);
+
+}
+#formtaraf1{
+    border: 0px solid color rgb(100, 100, 100);
+    display: block;
+}
+#menu{
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    margin: 0px 20px 20px -25px;
+    border-radius: 0px 10px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+#menu3{
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    margin: 0px 20px 20px 20px;
+    border-radius: 10px 0px 0px 10px;
+    padding: 0px 0px 0px 0px;
+}
+#menu4{
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    margin: 0px -10px 0px 10px;
+    border-radius: 0px 10px 10px 0px;
+    padding: 0px 0px 0px 0px;
+}
+#menu5{
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    margin: 0px -15px 0px 10px;
+    border-radius: 10px 0px 0px 10px;
+    padding: 0px 0px 0px 0px;
+}
+#serach1{
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    padding: 0px 30.5px 0px 30px;
+    border-radius: 5px;
+    background-color:#FDB713 ;
+    font-size: 20px;
 }

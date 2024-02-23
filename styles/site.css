@@ -16,7 +16,7 @@ div{
 }
 #dp1{
     margin: 0 px;
-    padding: 0px 180px 0px 0px;
+    padding: 0px 160px 0px 0px;
     display: inline-block;
     font-size: 20px;
     color: rgb(100, 100, 100);
@@ -62,7 +62,7 @@ p{
     padding: 5px 5px 0px 0px;
 }
 #img1{
-    height: 320px;
+    height: 317px;
 }
 #cars{
     font-size: 20px;
@@ -228,4 +228,24 @@ border: 0px solid color rgb(100, 100, 100);
     border-radius: 5px;
     background-color:#FDB713 ;
     font-size: 20px;
+}
+#tablig{
+    border: .5px solid rgba(0, 0, 0, 0.162);
+    margin: 0px 127px 40px 50px;
+    padding: 15px 0px 15px 15px;
+    border-radius: 5px;
+    display: inline-block;
+}
+#khadamat{
+    display: block;
+    margin: 20px 130px 10px 0px;
+    font-size: 25px;
+}
+#safarcart1{
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+
+}
+#safarcart2{
+    margin: 0px 80px -15px 0px;
 }
